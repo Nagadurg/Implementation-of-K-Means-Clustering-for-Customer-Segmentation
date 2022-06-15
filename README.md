@@ -36,6 +36,7 @@ Program to implement the K Means Clustering for Customer Segmentation.
 Developed by: Chevula.Naga durga
 RegisterNumber:  212221230014
 */
+```
 import pandas as pd
 import matplotlib.pyplot as plt
 data = pd.read_csv("Mall_Customers.csv")
@@ -79,7 +80,7 @@ plt.legend()
 
 
 
-
+````
 
 
 
